@@ -1,0 +1,13 @@
+/* styles/1-style.css */
+
+/* 
+   Effortless Transitions for Smooth Scrolling
+
+   This CSS file is designed to ensure a smooth scrolling behavior
+   when scrolling is triggered on the HTML element itself.
+*/
+
+/* apply smooth scrolling behavior to the HTML element */
+html {
+    scroll-behavior: smooth;
+}
